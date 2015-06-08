@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{367EB643-4F5F-B8F1-6865-23A5476D1CE7}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "WildWarriors",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

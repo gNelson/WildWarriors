@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This is a test
 Test2 Gary Style
+=======
+This is a test 
+Test 2
+>>>>>>> origin/OCN-Dev

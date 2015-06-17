@@ -2,7 +2,6 @@
 ## Unreal Engine
 #################
 Binaries/
-Build/
 Content/*
 !Content/WildWarriors
 DerivedDataCache/

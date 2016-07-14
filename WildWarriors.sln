@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2013 for Windows Desktop
-VisualStudioVersion = 12.0.31101.0
+VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Engine", "Engine", "{3C2191D4-FA02-40EF-951F-C9FD37E88CA9}"
 EndProject
@@ -30,11 +30,11 @@ Global
 		{60D917C0-BA90-4233-9998-F6E123370D6B}.Development|Windows.Build.0 = Development_Game|x64
 		{60D917C0-BA90-4233-9998-F6E123370D6B}.Shipping|Windows.ActiveCfg = Shipping_Game|Win32
 		{60D917C0-BA90-4233-9998-F6E123370D6B}.Shipping|Windows.Build.0 = Shipping_Game|Win32
-		{6036AC19-D845-41CB-B376-546DA36311B4}.DebugGame Editor|Windows.ActiveCfg = BuiltWithUnrealBuildTool|Win32
-		{6036AC19-D845-41CB-B376-546DA36311B4}.DebugGame|Windows.ActiveCfg = BuiltWithUnrealBuildTool|Win32
-		{6036AC19-D845-41CB-B376-546DA36311B4}.Development Editor|Windows.ActiveCfg = BuiltWithUnrealBuildTool|Win32
-		{6036AC19-D845-41CB-B376-546DA36311B4}.Development|Windows.ActiveCfg = BuiltWithUnrealBuildTool|Win32
-		{6036AC19-D845-41CB-B376-546DA36311B4}.Shipping|Windows.ActiveCfg = BuiltWithUnrealBuildTool|Win32
+		{6036AC19-D845-41CB-B376-546DA36311B4}.DebugGame Editor|Windows.ActiveCfg = DebugGame_Server|Win32
+		{6036AC19-D845-41CB-B376-546DA36311B4}.DebugGame|Windows.ActiveCfg = WinRT_DebugGame_Game|Win32
+		{6036AC19-D845-41CB-B376-546DA36311B4}.Development Editor|Windows.ActiveCfg = Development_Server|Win32
+		{6036AC19-D845-41CB-B376-546DA36311B4}.Development|Windows.ActiveCfg = WinRT_ARM_Development_Game|Win32
+		{6036AC19-D845-41CB-B376-546DA36311B4}.Shipping|Windows.ActiveCfg = Shipping_Client|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
